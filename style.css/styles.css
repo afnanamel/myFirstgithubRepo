@@ -1,0 +1,47 @@
+
+.first-section{
+    background-color: rgb(143, 224, 197);
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+border: 2px solid black;
+border-radius: 2%;
+box-shadow:2px 3px 4px ;
+}
+.second-section{ 
+    margin: 2px solid rgb(139, 68, 68);
+    padding: 2px 2px 2px 7px  ;
+    border: 2px solid rgba(0, 0, 0, 0.263);
+    border-radius: 2px;
+    box-shadow: 2px 3px 4px;
+background-color: rgb(139, 224, 189);}
+
+h2{ border: 1px solid rgb(3, 3, 3);
+    background-color:rgb(101, 128, 174) ;
+    text-align: center;
+    border-radius: 2px;
+   
+}
+h1{
+    border: 1px solid rgb(3, 3, 3);
+    background-color:rgb(61, 137, 191) ;
+    text-align: center;
+    border-radius: 2px;
+}
+.first p{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(124, 196, 178);
+}
+
+h3{
+    background-color: rgb(109, 129, 200);
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 1px;
+    
+}
+.Third-section{
+    background-color: rgb(69, 178, 171) ;
+    padding: 20px 10px;
+    margin: 20px 30px;
+    box-shadow: 2px 3px 4px ;
+}
